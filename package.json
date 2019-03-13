@@ -1,0 +1,17 @@
+{
+  "name": "frontend-interview-scaffold",
+  "version": "1.0.0",
+  "description": "Basic HTML and Scss scaffold for the face to face interview",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^2.1.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
