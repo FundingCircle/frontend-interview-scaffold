@@ -4,13 +4,15 @@
   "description": "Basic HTML and Scss scaffold for the face to face interview",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server"
+    "dev": "webpack-dev-server",
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^2.1.1",
     "file-loader": "^3.0.1",
+    "jest": "^24.5.0",
     "node-sass": "^4.11.0",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
